@@ -1,0 +1,24 @@
+<!DOCTYPE html><html lang='es'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>CV Miguel Ángel Rodríguez Rodríguez</title>
+<link rel='stylesheet' href='style.css'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css'>
+<script src='script.js'></script></head><body>
+<header><img src='foto.png'><h1>Mtro. Miguel Ángel Rodríguez Rodríguez</h1><h3>Docente de Matemáticas</h3>
+<div class='btns'>
+<a href='tel:+528110182341'><i class='fa fa-phone'></i> Llamar</a>
+<a href='https://wa.me/528110182341'><i class='fab fa-whatsapp'></i> WhatsApp</a>
+<a href='mailto:marodriguezr@normalmsg.edu.mx'><i class='fa fa-envelope'></i> Correo</a>
+<a href='#' onclick='imprimir()'><i class='fa fa-print'></i> Imprimir</a>
+<a href='CV_Miguel_Rodriguez.pdf' target='_blank'><i class='fa fa-file-pdf'></i> Ver CV</a>
+</div></header>
+<div class='container'>
+<div class='grid'>
+<div class='card'><h2>Sobre mí</h2><p>Soy un docente comprometido con la formación de sus estudiantes, interesado en la innovación educativa, la tecnología y la mejora continua. Me considero responsable, organizado y con sólidos valores, orientado al trabajo en equipo y a una enseñanza dinámica y significativa.</p></div>
+<div class='card'><h2>Contacto</h2><p>📞 81 10 18 23 41<br>✉️ marodriguezr@normalmsg.edu.mx<br>📍 Monterrey, Nuevo León</p></div>
+<div class='card'><h2>Experiencia</h2><ul><li>Docente de Matemáticas (SEP, ENS y Colegio Cultural Mexicano Americano)</li><li>Docente de Tecnología y Robótica</li></ul></div>
+<div class='card'><h2>Formación</h2><ul><li>Licenciatura en Educación Secundaria</li><li>Maestría en Enseñanza de las Ciencias</li><li>Ingeniería en Ciencia de Datos</li></ul></div>
+</div>
+<h2>Ubicación</h2>
+<a href='https://maps.google.com/?q=Monterrey,+Nuevo+Leon' target='_blank'>
+<iframe loading='lazy' src='https://maps.google.com/maps?q=Monterrey%20Nuevo%20Leon&t=&z=11&ie=UTF8&iwloc=&output=embed'></iframe></a>
+</div></body></html>
